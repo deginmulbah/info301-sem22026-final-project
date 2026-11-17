@@ -1,0 +1,38 @@
+ride_id,customer_id,pickup,destination,date,time,distance_km,base_fare,rate_per_km,fare,driver_id,vehicle_id,status
+R001,C003,Central Market,Riverside Park,2026-10-08,17:15,19.30,5.00,2.50,53.25,D011,V009,Completed
+R002,C011,Grand Mall,City Hospital,2026-10-09,13:45,20.70,5.00,2.50,56.75,D006,V011,Completed
+R003,C001,Lakeview Estate,Harbour Road,2026-10-13,08:45,20.30,5.00,2.50,55.75,D019,V016,Completed
+R004,C006,Grand Mall,Hilltop School,2026-10-15,11:30,14.60,7.00,3.00,50.80,D023,V002,Completed
+R005,C012,Sunrise Hotel,Harbour Road,2026-10-15,15:30,12.70,5.00,2.50,36.75,D030,V020,Cancelled
+R006,C013,Sunrise Hotel,Lakeview Estate,2026-10-16,11:30,13.80,5.00,2.50,39.50,D004,V004,Completed
+R007,C017,Hilltop School,Bus Station,2026-10-16,22:45,23.20,5.00,2.50,63.00,D004,V012,Completed
+R008,C010,Bus Station,Textile Junction,2026-10-17,08:00,21.30,5.00,2.50,58.25,D012,V028,Cancelled
+R009,C016,Old Town Square,Airport Terminal,2026-10-17,08:30,7.80,7.00,3.00,30.40,D018,V022,Completed
+R010,C004,Riverside Park,Textile Junction,2026-10-17,10:30,6.10,5.00,2.50,20.25,D002,V005,Completed
+R011,C013,Stadium Gate,Harbour Road,2026-10-17,13:30,19.40,5.00,2.50,53.50,,,Cancelled
+R012,C006,Riverside Park,Sunrise Hotel,2026-10-17,22:30,15.50,5.00,2.50,43.75,D024,V001,Completed
+R013,C005,Sunrise Hotel,Lakeview Estate,2026-10-18,11:45,12.90,5.00,2.50,37.25,D020,V010,Completed
+R014,C013,Lakeview Estate,City Hospital,2026-10-18,15:45,5.60,5.00,2.50,19.00,D027,V021,Completed
+R015,C016,Harbour Road,Grand Mall,2026-10-20,10:45,18.00,5.00,2.50,50.00,D017,V008,Completed
+R016,C005,University Gate,Hilltop School,2026-10-20,13:30,8.40,5.00,2.50,26.00,D020,V003,Completed
+R017,C015,Riverside Park,Textile Junction,2026-10-20,19:30,17.70,5.00,2.50,49.25,D003,V025,Completed
+R018,C014,Stadium Gate,Old Town Square,2026-10-21,12:30,21.80,5.00,2.50,59.50,D005,V023,Completed
+R019,C011,Textile Junction,Bus Station,2026-10-21,13:00,2.20,5.00,2.50,10.50,D021,V009,Completed
+R020,C012,Grand Mall,Central Market,2026-10-22,07:15,19.80,7.00,3.00,66.40,D001,V008,Completed
+R021,C001,Airport Terminal,Grand Mall,2026-10-22,10:15,7.60,5.00,2.50,24.00,D023,V005,Completed
+R022,C006,Sunrise Hotel,Grand Mall,2026-10-24,15:00,11.90,5.00,2.50,34.75,D013,V009,Completed
+R023,C001,Central Market,Old Town Square,2026-10-26,06:45,10.20,7.00,3.00,37.60,D007,V028,Completed
+R024,C001,Stadium Gate,Hilltop School,2026-10-26,09:00,2.00,5.00,2.50,10.00,D006,V026,Completed
+R025,C003,Textile Junction,Old Town Square,2026-10-26,09:00,6.30,5.00,2.50,20.75,D029,V002,Completed
+R026,C007,University Gate,Old Town Square,2026-10-26,09:45,16.20,5.00,2.50,45.50,,,Cancelled
+R027,C012,Stadium Gate,Lakeview Estate,2026-10-26,16:00,16.70,5.00,2.50,46.75,,,Cancelled
+R028,C010,Airport Terminal,City Hospital,2026-10-26,19:30,5.30,5.00,2.50,18.25,D016,V028,Completed
+R029,C005,Harbour Road,Riverside Park,2026-10-30,09:30,15.30,5.00,2.50,43.25,D018,V029,Completed
+R030,C016,City Hospital,Sunrise Hotel,2026-10-30,18:45,3.20,5.00,2.50,13.00,D008,V022,Completed
+R031,C010,City Hospital,Riverside Park,2026-10-30,22:00,19.70,5.00,2.50,54.25,D018,V001,Completed
+R032,C017,Central Market,University Gate,2026-11-02,14:00,20.80,7.00,3.00,69.40,D005,V016,Accepted
+R033,C017,Harbour Road,Bus Station,2026-11-03,19:00,21.30,7.00,3.00,70.90,D020,V004,Accepted
+R034,C014,Grand Mall,Lakeview Estate,2026-11-03,22:00,9.60,5.00,2.50,29.00,,,Requested
+R035,C015,Riverside Park,Central Market,2026-11-04,08:45,21.50,5.00,2.50,58.75,D015,V030,Accepted
+R036,C015,University Gate,Hilltop School,2026-11-04,13:30,20.80,7.00,3.00,69.40,,,Requested
+R037,C001,NEW MATADI,OLD MATADI,2026-11-30,01:30,20.00,20.00,2.40,68.00,,,Requested
