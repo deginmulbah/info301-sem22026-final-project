@@ -7,12 +7,18 @@ A simple Python console program to register customers, drivers and vehicles, boo
 
 **Group:** _(group name)_
 
-| Member | Part of the code they can explain |
+| Student ID | Name |
 |---|---|
-| _name_ | _e.g. people.py: customers and drivers_ |
-| _name_ | _e.g. vehicles.py, and the fare in rides.py_ |
-| _name_ | _e.g. rides.py: booking, status, reports, and main.py_ |
-| _name_ | _e.g. csv_files.py, checks.py, inputs.py, display.py and test_app.py_ |
+| 10273 | Herbert M. Taylor |
+| 10288 | Prince S.K Marbiah |
+| 10278 | Frank T. Morgan |
+| 9118 | Mohammed A. Sheriff |
+| 10367 | H. Nicika Darblo |
+| 8822 | Julius G. Doe |
+| 10900 | Jenkins D. Mulbah |
+| 10757 | Aloysius B. Chappy |
+| 9730 | Musu S. Josiah |
+| 10504 | Josie J. Bealdeh |
 
 ## Features
 
